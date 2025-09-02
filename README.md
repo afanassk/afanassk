@@ -11,7 +11,7 @@
   About me:
 </h2>
 <div>
-  <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkyb3d0djVuYmlhc2VndHQzZzcxcmFlZXl0Y2Qzc2cyOWdrbHg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="230">
+  <img align='right' src="/afanassk/images/afanassk.png" width="230">
   <p>
     </br>
     Я начинающий фронтенд-разработчик. Мое погружение в IT началось еще в колледже,</br> где я изучала языки программирования, основы баз данных, и получила первый опыт в разработке простых программ и сайтов. 
@@ -73,6 +73,10 @@
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fafanassk">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fafanassk&countColor=%23263759" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer&reversal=false" />
 </div>
 
 <!--
