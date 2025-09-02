@@ -11,7 +11,7 @@
   About me:
 </h2>
 <div>
-  <img align='right' src="/afanassk/afanassk.png" width="230">
+  <img align='right' src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkyb3d0djVuYmlhc2VndHQzZzcxcmFlZXl0Y2Qzc2cyOWdrbHg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="230">
   <p>
     </br>
     Я начинающий фронтенд-разработчик. Мое погружение в IT началось еще в колледже,</br> где я изучала языки программирования, основы баз данных, и получила первый опыт в разработке простых программ и сайтов. 
