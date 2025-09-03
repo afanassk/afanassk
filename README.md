@@ -13,14 +13,14 @@
 <div>
   <img align='right' src="images/afanassk.png" width="230">
   <p>
-    </br>
+    <br>
     Я начинающий фронтенд-разработчик. Мое погружение в IT началось еще в колледже,</br> где я изучала языки программирования, основы баз данных, и получила первый опыт в разработке простых программ и сайтов. 
     Именно там я поняла, что меня вдохновляет создание видимой и интерактивной части веб-приложений. 
-    </br>
-    </br>
+    <br>
+    <br>
     Для того чтобы углубиться в эту область, с февраля 2025 года я прохожу курс по Frontend-разработке </br>в Яндекс Практикуме.
-    </br>
-    </br>
+    <br>
+    <br>
   </p>
 </div>
 
@@ -45,9 +45,9 @@
 </h2>
 
 <div align="center">
-  <a href="https://vk.com/loveu_somuch" target="_blank">
+ <!-- <a href="https://vk.com/loveu_somuch" target="_blank">
     <img src="logo/vk logo.png" height="25" alt="vk logo"  />
-  </a>
+  </a> -->
   <a href="https://t.me/ph_afanas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -66,19 +66,21 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afanassk&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afanassk&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afanassk&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=afanassk&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afanassk&theme=dracula&utcOffset=8)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afanassk&theme=dracula)-->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=afanassk&theme=dracula&utcOffset=8)-->
 
 </div>
 
 <!-- Посещения -->
-<div align="center">
+<!--  <div align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fafanassk">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fafanassk&countColor=%23263759" />
   </a>
-</div>
+</div> 
+-->
 
+<!-- Футер -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer&reversal=false" />
 </div>
