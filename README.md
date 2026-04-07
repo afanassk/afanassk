@@ -20,7 +20,7 @@
 ## 📫 Как со мной связаться:
 
 <!-- Сайт-визитка еще в процессе написания 🌐 <a href="">Портфолио</a> -->
-- 💬 <a href="https://t.me/ph_afanas">Telegram</a>
+- 💬 <a href="https://t.me/afanasssk">Telegram</a>
 - ✉️ <a href="mailto:afanassk@yandex.ru">e-mail</a>
 
 <!-- Блок "Статистика" -->
